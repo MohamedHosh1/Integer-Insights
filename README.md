@@ -1,4 +1,4 @@
-# NaturalNumberCalculator
+# Integer Insights
 # OverView Explanation
 This project represents a Natural Number Calculator, a distinctive software application capable of conducting precise mathematical operations using natural numbers without predefined limits. In contrast to conventional calculators, this tool empowers users to handle natural numbers of varying magnitudes, rendering it a versatile solution for achieving accurate calculations across a wide spectrum of scenarios.
 # Features
